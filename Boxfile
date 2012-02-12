@@ -1,0 +1,4 @@
+web1: 
+  after_build:
+  - "echo 'build complete'"
+  - "mkdir test"
