@@ -1,5 +1,4 @@
 web1: 
   after_build:
   - "echo 'build complete'"
-  - "rmdir test"
   - "bash /var/www/post_build.sh"
