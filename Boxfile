@@ -1,4 +1,4 @@
 web1: 
   after_build:
   - "echo 'build complete'"
-  - "bash /var/www/post_build.sh"
+  - "php /var/www/migrate.php"
