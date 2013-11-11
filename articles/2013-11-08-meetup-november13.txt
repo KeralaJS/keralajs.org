@@ -1,0 +1,20 @@
+{
+"title" : "November meetup",
+"author":"KeralaJS",
+"date":"08-11-2013",
+"tag":"events,meetup",
+"category":"Events"
+}
+
+####When
+Sunday, November 17th, 9:30 - 1:00 PM
+
+####Where
+QBurst, Tejomaya, Infopark, Cochin.
+
+<strong>RSVP - [Gathers.us](http://gathers.us/events/keralajs-meetup)</strong>
+
+Our November'13 meetup will be held at QBurst, Infopark, Cochin. We will have a K-RUG meetup on the same day from 
+2:00 PM to 5:00 PM.
+
+<strong>Contact : Shameer - 09747- 377 001</strong>
