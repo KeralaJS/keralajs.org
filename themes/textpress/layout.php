@@ -55,10 +55,10 @@
           <h2>Kerala JavaScript user group</h2>
           </div>
           <ul class="nav nav-pills">
-            <li class="active"><a href="/">Home</a></li>
+            <li class="<?php if($global["route"] == "__root__") echo "active";?>"><a href="/">Home</a></li>
             <!-- <li><a href="/events">Events</a></li> -->
-            <li><a href="/about">About</a></li>
-            <li><a href="/contact">Contact</a></li>
+            <li class="<?php if($global["route"] == "about") echo "active";?>"><a href="/about">About</a></li>
+            <li class="<?php if($global["route"] == "contact") echo "active";?>"><a href="/contact">Contact</a></li>
           </ul>
         </div>
         
