@@ -74,7 +74,7 @@
     </div>
     <hr>
     <footer id="site-footer">
-        <p>Powered by TextPress. &copy; <a href="http://www.keralajs.org" target="_blank">KeralaJS</a> 2013.</p>
+        <p>Powered by <a href="http://textpress.shameerc.com" target="_blank">TextPress</a>. &copy; <a href="http://www.keralajs.org" target="_blank">KeralaJS</a> 2013.</p>
     </footer>
 
     <!-- Le javascript
