@@ -57,6 +57,7 @@
           <ul class="nav nav-pills">
             <li class="<?php if($global["route"] == "__root__") echo "active";?>"><a href="/">Home</a></li>
             <!-- <li><a href="/events">Events</a></li> -->
+            <li class="<?php if($global["route"] == "forum") echo "active";?>"><a href="https://groups.google.com/forum/#!forum/kerala-js">Forum</a></li>
             <li class="<?php if($global["route"] == "about") echo "active";?>"><a href="/about">About</a></li>
             <li class="<?php if($global["route"] == "contact") echo "active";?>"><a href="/contact">Contact</a></li>
           </ul>
