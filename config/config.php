@@ -1,7 +1,7 @@
 <?php
 return array(
 	'date.format' => 'd M, Y',   // Date format to be used in article page (not for routes)   
-	'author.name' => 'Author name', // Global author name 
+	'author.name' => 'KeralaJS', // Global author name 
 	'site.name'  => 'KeralaJS',   // Site name (Global)
 	'site.title' => 'Kerala JavaScript user group',  // Site default title (Global)
 	'article.path'=> './articles',      // Path to articles

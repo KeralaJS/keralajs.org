@@ -6,15 +6,73 @@
 "category":"Events"
 }
 
-####When
-Sunday, November 17th, 9:30 - 1:00 PM
+####When?
+Sunday, November 17th, 9:30 AM - 1:00 PM  
 
-####Where
+####Where?
 QBurst, Tejomaya, Infopark, Cochin.
 
-<strong>RSVP - [Gathers.us](http://gathers.us/events/keralajs-meetup)</strong>
+Our second KeralaJS meetup will be held at Infopark, Cochin on November 17th (Sunday). This time we've made this event bit bigger
+by combining with Ruby developers [(K-RUG) meetup](http://gathers.us/events/kerala-ruby-meet-up). Event will start at 9:30 AM and with JavaScript sessions till 1:00 PM. We'll kick  off the K-RUG meetup at 2:00 PM, where we have bunch of interesting sessions on Ruby.
 
-Our November'13 meetup will be held at QBurst, Infopark, Cochin. We will have a K-RUG meetup on the same day from 
-2:00 PM to 5:00 PM.
+This will be a great opportunity for developers working on both platform to interact each other and share their experiences. You can RSVP for both JavaScript and Ruby events separately, but it's highly encouraged to attend both.
+
+<strong>RSVP - [KeralaJS meetup @Gathers.us](http://gathers.us/events/keralajs-meetup)</strong>
+
+**Schedule**
+<table>
+	<tr>
+		<td style="width:65px;">
+			09:30
+		</td>
+		<td>
+			Welcome
+		</td>
+	</tr>
+	<tr>
+		<td>
+			10:00
+		</td>
+		<td>
+			JavaScript at QBurst
+		</td>
+	</tr>
+	<tr>
+		<td>
+			10:15
+		</td>
+		<td>
+			JavaScript, Meet Cloud: Node.js on Windows Azure, by <a href="http://in.linkedin.com/in/shijuv/">Shiju Varghese</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			11:15
+		</td>
+		<td>
+			Networking break
+		</td>
+	</tr>
+	<tr>
+		<td>
+			11:45
+		</td>
+		<td>
+			An Introduction to Functional Programming, by <a href="blog.shameerc.com">Shameer C</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			12:30
+		</td>
+		<td>
+			Lightning Talks
+		</td>
+	</tr>
+</table>
+
+####Location
+
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.co.in/maps?t=m&amp;q=QBurst+Technologies,+Info+Park+Campus,+Infopark,+Kerala&amp;ie=UTF8&amp;hq=QBurst+Technologies,&amp;hnear=Info+Park+Campus,+Infopark,+Ernakulam,+Kerala&amp;ll=10.009974,76.365747&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://www.google.co.in/maps?t=m&amp;q=QBurst+Technologies,+Info+Park+Campus,+Infopark,+Kerala&amp;ie=UTF8&amp;hq=QBurst+Technologies,&amp;hnear=Info+Park+Campus,+Infopark,+Ernakulam,+Kerala&amp;ll=10.009974,76.365747&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
 <strong>Contact : Shameer - 09747- 377 001</strong>
