@@ -71,8 +71,13 @@ This will be a great opportunity for developers working on both platform to inte
 	</tr>
 </table>
 
+
+####Sponsers
+<a href="http://www.qburst.com/" target="_blank"><img src="http://www.qburst.com/images/responsive/QBlogo.png" /></a>
+
+<br>
 ####Location
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.co.in/maps?t=m&amp;q=QBurst+Technologies,+Info+Park+Campus,+Infopark,+Kerala&amp;ie=UTF8&amp;hq=QBurst+Technologies,&amp;hnear=Info+Park+Campus,+Infopark,+Ernakulam,+Kerala&amp;ll=10.009974,76.365747&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://www.google.co.in/maps?t=m&amp;q=QBurst+Technologies,+Info+Park+Campus,+Infopark,+Kerala&amp;ie=UTF8&amp;hq=QBurst+Technologies,&amp;hnear=Info+Park+Campus,+Infopark,+Ernakulam,+Kerala&amp;ll=10.009974,76.365747&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-
-<strong>Contact : Shameer - 09747- 377 001</strong>
+<br>
+Contact : Shameer - 09747- 377 001
