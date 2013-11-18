@@ -6,6 +6,12 @@
 "category":"Events"
 }
 
+###Slides
+[JavaScript, Meet Cloud : Node.js on Windows Azure](http://www.slideshare.net/shijucv/javascript-meet-cloud-nodejs-on-windows-azure)
+
+[Introduction to Functional Programming](http://talks.shameerc.com/introduction-to-functional-programming.html)
+
+
 ####When?
 Sunday, November 17th, 9:30 AM - 1:00 PM  
 
@@ -58,7 +64,7 @@ This will be a great opportunity for developers working on both platform to inte
 			11:45
 		</td>
 		<td>
-			An Introduction to Functional Programming, by <a href="blog.shameerc.com">Shameer C</a>
+			An Introduction to Functional Programming, by <a href="http://blog.shameerc.com">Shameer C</a>
 		</td>
 	</tr>
 	<tr>
