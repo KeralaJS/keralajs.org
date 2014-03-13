@@ -57,10 +57,11 @@
   .masthead h1{
     font-size: 68px;
     font-weight: 600;
-    height: 70px;
+    height: 1px;
     margin-top: 0;
-    padding-top: 20px;
+    padding-top: 0px;
     color: #f2f7e9;
+    text-indent: -9999px;
   }
   .nav-pills{
     display: block;
@@ -193,4 +194,12 @@
     font-size: 14px;
     font-weight: normal;
     margin-right: 10px;
+  }
+  .peoples {
+    padding: 10px 0 0 10px;
+    font-weight: bold;
+    color: rgb(10, 149, 168);
+  }
+  .clear {
+    clear: both;
   }

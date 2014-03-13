@@ -50,9 +50,10 @@
           <br>
           <br>
           <img src="<?php echo $global['assets.prefix'];?>/themes/textpress/assets/img/keralajs_log.png" alt="" width="100" style="border: 5px solid #f2f7e9; border-radius:5px">
-          <!-- <h1 class="muted">KeralaJS</h1> -->
+          <h1 class="muted">KeralaJS</h1>
           <div class="jumbotron">
           <h2>Kerala JavaScript user group</h2>
+          <a href="https://twitter.com/KeralaJS" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @KeralaJS</a>
           </div>
           <ul class="nav nav-pills">
             <li class="<?php if($global["route"] == "__root__") echo "active";?>"><a href="/">Home</a></li>
@@ -83,5 +84,6 @@
     <script src="<?php echo $global['assets.prefix'];?>/themes/textpress/assets/js/jquery.min.js"></script>
     
     <script type="text/javascript" src="<?php echo $global['assets.prefix'];?>/themes/textpress/assets/js/bootstrap.min.js"></script>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </body>
 </html>
