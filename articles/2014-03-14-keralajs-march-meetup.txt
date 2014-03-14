@@ -1,0 +1,36 @@
+{
+"title" : "KeralaJS Meetup - March 2014",
+"author":"KeralaJS",
+"date":"14-03-2014",
+"tag":"events,meetup",
+"category":"Events"
+}
+
+Hello everyone!,  
+It's time to get ready for our next meetup. For some reasons we were not able to meet last month. So we had a 
+little more time to prepare and we are all excited to meet after this short break. 
+
+This time the event is hosted by <em>Cavatina Solutions</em>, at their new  office at Kaloor. You can find the address and route map below.
+
+###Schedule
+<div class="schedule">
+2.00 - Introduction <br />
+2.30 - Introduction to Web Components, by Revath <br />
+3.30 - Networking break / Tea time! <br />
+4.00 - Flash Talks  <br />
+</div>
+
+As you can see, we have time for one or two more talks and we would love to hear about your adventures in JavaScript. 
+Please let us know if you have something interesting to talk :)
+
+####Location
+
+Cavatina Solutions,   
+2nd  Floor,   
+Mootheril building,  
+Opposite Park Central (Hotel),  
+Kaloor-Kadavanthara Road,  Kaloor.  
+
+####Route Map
+<iframe src="https://www.google.com/maps/embed?pb=!1m27!1m12!1m3!1d3929.3034699683353!2d76.29146977104128!3d9.991771840021062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m12!1i0!3e6!4m5!1s0x3b080d404807ae11%3A0xc9e4209aeec997c7!2sKaloor+Private+Bus+Terminal%2C+Kaloor+Kadavanthara+Rd%2C+Kaloor%2C+Ernakulam%2C+Kerala+682017%2C+India!3m2!1d9.994014!2d76.291898!4m3!3m2!1d9.9909663!2d76.2938878!5e0!3m2!1sen!2s!4v1394781111177" width="800" height="450" frameborder="0" style="border:0"></iframe>
+####See you there!
