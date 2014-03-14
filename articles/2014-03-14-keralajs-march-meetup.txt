@@ -33,7 +33,8 @@ Cavatina Solutions,
 2nd  Floor,   
 Mootheril building,  
 Opposite Park Central (Hotel),  
-Kaloor-Kadavanthara Road,  Kaloor.  
+Kaloor-Kadavanthara Road,  Kaloor,
+Cochin, Kerala.  
 
 ####Route Map
 <iframe src="https://www.google.com/maps/embed?pb=!1m27!1m12!1m3!1d3929.3034699683353!2d76.29146977104128!3d9.991771840021062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m12!1i0!3e6!4m5!1s0x3b080d404807ae11%3A0xc9e4209aeec997c7!2sKaloor+Private+Bus+Terminal%2C+Kaloor+Kadavanthara+Rd%2C+Kaloor%2C+Ernakulam%2C+Kerala+682017%2C+India!3m2!1d9.994014!2d76.291898!4m3!3m2!1d9.9909663!2d76.2938878!5e0!3m2!1sen!2s!4v1394781111177" width="800" height="450" frameborder="0" style="border:0"></iframe>
