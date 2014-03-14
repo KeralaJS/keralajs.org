@@ -8,7 +8,8 @@
         echo $global['site.name'] .' | '. $title;
       ?>
     </title>
-    <meta name="description" content="">
+    <meta name="description" content="JavaScript community from the God's own country">
+    <meta name="keywords" content="JavaScript, Meetups, JavaScript events in Kerala, HTML5 events in Kerala.">
     <meta content='Authur Name' name='<?php echo $global['author.name']; ?>'/> 
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
@@ -23,23 +24,6 @@
     <link href="<?php echo $global['assets.prefix'];?>/themes/textpress/assets/css/main.css" rel="stylesheet">
 
     <!-- Le fav and touch icons -->
-
-    <?php if($global['google.analytics']){?>
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', '<?php echo $global['google.analytics']; ?>']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-      $(function(){
-        $('.dropdown-toggle').dropdown()  
-      })
-  </script>
-  <?php }?>
   </head>
 
   <body>
@@ -82,7 +66,22 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="<?php echo $global['assets.prefix'];?>/themes/textpress/assets/js/jquery.min.js"></script>
-    
+    <?php if($global['google.analytics']){?>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', '<?php echo $global['google.analytics']; ?>']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+      $(function(){
+        $('.dropdown-toggle').dropdown()  
+      })
+  </script>
+  <?php }?>
     <script type="text/javascript" src="<?php echo $global['assets.prefix'];?>/themes/textpress/assets/js/bootstrap.min.js"></script>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </body>
