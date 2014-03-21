@@ -12,16 +12,17 @@ little more time to prepare and we are all excited to meet after this short brea
 
 This time the event is hosted by <em>Cavatina Solutions</em>, at their new  office at Kaloor. You can find the address and route map below.
 
-<strong>Date and Time :  Sat, Mar 22, 12:30 PM - 3:30 PM </strong>
+<strong>Date and Time :  Sat, Mar 22, 2:00 PM - 5:00 PM </strong>
 
 <a href="https://plus.google.com/events/c1kned2hdf66u0au8gtddmsjg48" target="_blank" class="btn btn-large btn-primary">RSVP</a>
 
 ###Schedule
 <div class="schedule">
 2.00 - Introduction <br />
-2.30 - Introduction to Web Components, by Revath <br />
+2.30 - Firefox OS : Bringing the Web to the masses <br />
 3.30 - Networking break / Tea time! <br />
-4.00 - Flash Talks  <br />
+4.00 - Introduction to Web Components, by Revath <br />
+4.45 - Flash Talks  <br />
 </div>
 <br />
 We have time for one or two more talks and we would love to hear about your adventures in JavaScript. 
