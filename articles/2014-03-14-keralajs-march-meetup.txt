@@ -12,6 +12,9 @@ little more time to prepare and we are all excited to meet after this short brea
 
 This time the event is hosted by <em>Cavatina Solutions</em>, at their new  office at Kaloor. You can find the address and route map below.
 
+####Update : Slides
+<strong> <a href="https://speakerdeck.com/revathskumar/web-components" target="_blank">Web Components</a> <small>by Revath S Kumar</small></strong>
+
 <strong>Date and Time :  Sat, Mar 22, 2:00 PM - 5:00 PM </strong>
 
 <a href="https://plus.google.com/events/c1kned2hdf66u0au8gtddmsjg48" target="_blank" class="btn btn-large btn-primary">RSVP</a>
