@@ -1,0 +1,23 @@
+{
+"title" : "May meetup summary",
+"author":"KeralaJS",
+"date":"27-05-2014",
+"tag":"events,meetup",
+"category":"Events"
+}
+
+
+We had our sixth meetup of KeralaJS on 24th May 2014 at [Phases India Pvt Ltd](http://phases.dk/en/). It was awesome as always :). Everyone had great time interacting each other and learning new stuffs.
+
+Our Agenda was,
+
+2.00  - Introduction  
+2.30  - Angular.js by +vineeth nair  
+4.00  - Networking break / Tea time!  
+4.30  - Flash Talks  
+
+The highlight of this meetup was talk on AngularJS by [Vineeth Nair](https://plus.google.com/101102668885683229760). He gave an awesome introduction to AngularJS with some demo application followed by a  discussion on different aspects of AngularJS. The slides on the talk is available on [slideshare]( http://www.slideshare.net/nairvineethrahakrishnan/angular-js-35125474). We really want to thank Vineeth for the effort put on to prepare such a detail talk with demo. 
+
+Then after the networking break, [Revath S Kumar](http://blog.revathskumar.com/) did a flash talk on his experiment with [React](http://facebook.github.io/react/). Deatils of his flash talk can be found in his [blog : Getting started with React](http://blog.revathskumar.com/2014/05/getting-started-with-react.html). 
+
+Last but not least we really want to thank [Phases India Pvt Ltd](http://phases.dk/en/) for being such a wonderful host and [Nikhil Ben Kuruvila](http://twitter.com/nikhilKuruvilla) for co-ordinating everything.
