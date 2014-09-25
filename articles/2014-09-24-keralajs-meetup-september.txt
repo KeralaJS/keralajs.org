@@ -1,0 +1,32 @@
+{
+"title" : "September meetup",
+"author":"KeralaJS",
+"date":"24-09-2014",
+"tag":"events,meetup",
+"category":"Events"
+}
+
+Hello Everyone,
+
+Our september meetup is happening on 27th(Saturday) at [MobME](http://mobme.in/).
+
+**When:** Saturday, September 27, 2PM to 5PM
+
+**Agenda:**  
+2.00  - Introduction  
+2.30  - Discussion on plans for 1st anniversary.  
+3.15  - Testing with Mocha  by [Revath S Kumar](http://blog.revathskumar.com/)  
+4.00  - Networking break / Tea time!  
+4.30  - Flash Talks
+
+**Venue Address:**  
+MobME Wireless Solutions Ltd.,  
+41/3197, Fourth Floor,  
+Bhageeratha Square,  
+Kacherippady, Cochin – 682018.  
+
+**Route Map:**
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3929.3544624768465!2d76.2846905!3d9.9875505!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080d44e57dcea3%3A0x4d875492baf4208f!2sMobme%2C+Kacheripady%2C+Kacherippady%2C+Kerala+682018!5e0!3m2!1sen!2sin!4v1411581680372" width="600" height="450" frameborder="0" style="border:0"></iframe>
+
+**See you there!**
