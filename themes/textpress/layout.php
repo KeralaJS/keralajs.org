@@ -33,7 +33,9 @@
         <div class="masthead text-center">
           <br>
           <br>
-          <img src="<?php echo $global['assets.prefix'];?>/themes/textpress/assets/img/keralajs_log.png" alt="" width="100" style="border: 5px solid #f2f7e9; border-radius:5px">
+          <a href="/">
+            <img src="<?php echo $global['assets.prefix'];?>/themes/textpress/assets/img/keralajs_log.png" alt="" width="100" style="border: 5px solid #f2f7e9; border-radius:5px">
+          </a>
           <h1 class="muted">KeralaJS</h1>
           <div class="jumbotron">
           <h2>Kerala JavaScript user group</h2>

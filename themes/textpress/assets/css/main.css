@@ -195,10 +195,17 @@
     font-weight: normal;
     margin-right: 10px;
   }
+  .peoples-wrap  {
+    width: 100%;
+    float: left;
+  }
   .peoples {
     padding: 10px 0 0 10px;
     font-weight: bold;
     color: rgb(10, 149, 168);
+    width: 45%;
+    float: left;
+    height: 60px;
   }
   .clear {
     clear: both;

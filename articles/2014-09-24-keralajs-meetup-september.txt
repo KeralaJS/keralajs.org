@@ -29,4 +29,16 @@ Kacherippady, Cochin – 682018.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3929.3544624768465!2d76.2846905!3d9.9875505!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080d44e57dcea3%3A0x4d875492baf4208f!2sMobme%2C+Kacheripady%2C+Kacherippady%2C+Kerala+682018!5e0!3m2!1sen!2sin!4v1411581680372" width="600" height="450" frameborder="0" style="border:0"></iframe>
 
-**See you there!**
+## Summary
+
+Thanks everyone for making this a great event. Hope everyone enjoyed the sessions.
+
+The meetup started with the introduction of KeralaJS to the new attendees. Then went on to [Akhil Stanislavose](https://github.com/akhilstanislavose)'s talk on [Variadic function](http://slides.com/akhilstanislavose/variadic-functions-in-javascript). This talk was actually not listed in the meetup announcement. So for most of us it was a surprise. In his session, Akhil gave an in-depth idea of variadic functions, functions which takes any number of arguments and specialties of `arguments` object.
+
+After the networking break, [Revath S Kumar](http://blog.revathskumar.com/) talked on [Unit testing with mocha](https://speakerdeck.com/revathskumar/testing-with-mocha). In that he explained about how to get started with testing JavaScript. 
+
+Then we had a discussion, in which [Praveen Sridhar](http://psbots.blogspot.in/) introduced [IndieWeb](http://indiewebcamp.com/) and [POSSE](http://indiewebcamp.com/POSSE) to us. Overall the event was fun and informative as always. Looking forwared to the next month meetup.
+
+We would like to thank [MobME Wireless](http://mobme.in/) for hosting the event and [Akhil Stanislavose](https://github.com/akhilstanislavose) for setting things up for us.
+
+**Cheers**
