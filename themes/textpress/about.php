@@ -27,12 +27,12 @@
     </div>
     <div class="peoples">
       <p>Rahul Ramesh<br>
-      <a href="https://github.com/akhilstanislavose" target="_blank">@theCoderDotIn</a></p>
+      <a href="https://twitter.com/theCoderDotIn" target="_blank">@theCoderDotIn</a></p>
       </p>
     </div>
     <div class="peoples">
       <p>Akhil Stanislavose<br>
-      <a href="https://twitter.com/theCoderDotIn" target="_blank">@akhilstanislavose</a></p>
+      <a href="https://github.com/akhilstanislavose" target="_blank">@akhilstanis</a></p>
       </p>
     </div>
     <div class="peoples">
