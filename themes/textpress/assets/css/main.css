@@ -210,3 +210,30 @@
   .clear {
     clear: both;
   }
+  .sponsor-head {
+    text-align: center;
+  }
+  ul.sponsors {
+    list-style: none;
+    margin: 0 auto;
+  }
+  ul.sponsors li.item {
+    background: #fefefe;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    padding: 10px 10px;
+    width: 162px;
+    box-sizing: border-box;
+    margin: 20px auto;
+  }
+  ul.sponsors li.item a {
+    text-decoration: none;
+  }
+  ul.sponsors li.item a .name {
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 5px;
+  }

@@ -52,6 +52,10 @@ return array(
 					'route' => '/about',
 					'template' => 'about'
 				),
+			'sponsors' => array(
+					'route' => '/sponsors',
+					'template' => 'sponsors'
+				),
 			'contact' => array(
 					'route' => '/contact',
 					'template' => 'contact'
