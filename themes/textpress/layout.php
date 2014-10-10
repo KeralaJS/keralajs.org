@@ -46,6 +46,7 @@
             <!-- <li><a href="/events">Events</a></li> -->
             <li class="<?php if($global["route"] == "forum") echo "active";?>"><a href="https://groups.google.com/forum/#!forum/kerala-js">Forum</a></li>
             <li class="<?php if($global["route"] == "about") echo "active";?>"><a href="/about">About</a></li>
+            <li class="<?php if($global["route"] == "sponsors") echo "active";?>"><a href="/sponsors">Sponsors</a></li>
             <li class="<?php if($global["route"] == "contact") echo "active";?>"><a href="/contact">Contact</a></li>
           </ul>
         </div>
