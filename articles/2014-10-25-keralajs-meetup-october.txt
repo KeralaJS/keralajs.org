@@ -1,0 +1,35 @@
+{
+"title" : "1st anniversary celebration & meetup",
+"author":"KeralaJS",
+"date":"22-10-2014",
+"tag":"events,meetup",
+"category":"Events"
+}
+
+Hello Everyone,
+
+Our october meetup and ist anniversary celebration is happening on 25th(Saturday) at [Hackerspace](http://hackerspace.aisat.ac.in).
+
+RSVP : [Google Events](http://bit.ly/kjs-oct)
+
+**When:** Saturday, October 25, 2PM to 5PM
+
+**Agenda:**
+2.00  - Introduction  
+2.30  - 1st anniversary celebration.  
+3.00  - Three.js  by [vigneshwer dhinakaran](https://plus.google.com/+vigneshwerdhinakaran)  
+3.45  - Networking break / Tea time!  
+4.00  - Tinkering with Nodebots by [Praveen Sridhar](http://psbots.blogspot.in/)  
+4.30  - Prototype based Programming with [Io](https://en.wikipedia.org/wiki/Io_\(programming_language\)) by [Nithin Bekal](http://nithinbekal.com/)  
+
+**Venue Address:**
+Hacker space,
+AISAT Technical Campus,
+South Kalamassery.
+
+
+**Route Map:**
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3928.601451496032!2d76.329982!3d10.049709!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080c3a91df8a05%3A0xb95a3ba3a5f5e8f6!2sAISAT+Technical+Campus!5e0!3m2!1sen!2s!4v1413990864304" width="600" height="450" frameborder="0" style="border:0"></iframe>
+
+**See you there!**
