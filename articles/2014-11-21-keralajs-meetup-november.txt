@@ -1,0 +1,35 @@
+{
+"title" : "KeralaJS meetup - November, 2014",
+"author":"KeralaJS",
+"date":"21-11-2014",
+"tag":"events,meetup",
+"category":"Events"
+}
+
+Hello Everyone,
+
+Our November meetup is happening on 22nd, Saturday at Ndimensionz Solutions.
+
+RSVP : [Google Events](http://bit.ly/kjs-nov)
+
+**When:** Saturday, November 22, 2PM to 5PM
+
+**Agenda:**
+2.00  - Introduction
+2.30  - An Introduction to NoSQL and MongoJS by [Nirmal Vyas](https://plus.google.com/107872378323702885474) 
+3.15  - Networking break / Tea time!
+3:30  - Gulp.js by [Revath S Kumar](http://blog.revathskumar.com) 
+4.00  - Flash Talks
+
+**Venue Address:**
+Ndimensionz Solutions Pvt Ltd, 
+1A CVC Homes, 
+Airforce Road,
+Mavelipuram,
+Kakanad PO.
+
+
+**Route Map:**
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3928.9334461268195!2d76.33993!3d10.022351!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080c5e2d9656b7%3A0xeef3515e9a3c1a73!2sNdimensionz+Solutions+Pvt+Ltd%2C+1A+CVC+Homes%2C+Airforce+Road%2C%2C+Mavelipuram%2CKakanad!5e0!3m2!1sen!2sin!4v1416568462490" width="800" height="450" frameborder="0" style="border:0"></iframe>
+
+**See you there!**
