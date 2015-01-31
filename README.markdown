@@ -1,3 +1,5 @@
-# TextPress
+# KeralaJS
 
-Thank you for visiting TextPress. It is a simple, easy to use PHP flat-file blog engine built on top of Slim Framework [Slim Framework](http://slimframework.com) released under the MIT public license.
+This repository contains the source code for KeralaJS.org website.
+
+KeralaJS is a JavaScript user group and developer community from God's own country. Our goal is to *be* the platform for JavaScript and front-end developers to connect, network and share their experiences. We'll have monthly meetups and occational events mainly focusing on JavaScript and different front-end technologies.
