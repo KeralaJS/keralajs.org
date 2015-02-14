@@ -1,0 +1,31 @@
+{
+"title" : "KeralaJS meetup - February, 2015",
+"author":"KeralaJS",
+"date":"14-02-2015",
+"tag":"events,meetup",
+"category":"Events"
+}
+
+Hello Everyone,
+
+Our February meetup is happening on 28th, Saturday at Phases office in Seaport Airport road.
+
+RSVP : [Google Events](http://bit.ly/1Cr9kwX)
+
+**When:** Saturday, November 28, 2PM to 5PM
+
+**Agenda:**  
+TBD
+
+**Venue Address:**  
+Phases Ltd  
+1st Floor, Rabiya Building  
+Kaipadamugal, Seaport Airport Rd  
+CUSAT PO, Kerala, India 682022  
+Phone: +91 484 606 0051  
+
+
+**Route Map:**
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3928.6851230808143!2d76.33712799999999!3d10.042820999999998!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080c3f0dbdd8c5%3A0xe8d6026b0f698faa!2sPhases+Ltd!5e0!3m2!1sen!2sae!4v1423888716918" width="800" height="459" frameborder="0" style="border:0"></iframe>
+
+**See you there!**
