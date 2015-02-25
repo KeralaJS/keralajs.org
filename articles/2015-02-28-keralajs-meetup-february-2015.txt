@@ -15,10 +15,10 @@ RSVP : [Google Events](http://bit.ly/1Cr9kwX)
 **When:** Saturday, February 28, 2PM to 5PM
 
 **Agenda:**  
-2.00  - Introduction
-2.30  - Lazy Function Evaluation, Partial Application and Curry by [Vineeth Nair](https://www.facebook.com/nairvineethrahakrishnan) 
-3.15  - Networking break / Tea time!
-4.00  - Flash Talks
+2.00  - Introduction  
+2.30  - Lazy Function Evaluation, Partial Application and Curry by [Vineeth Nair](https://www.facebook.com/nairvineethrahakrishnan)  
+3.15  - Networking break / Tea time!  
+4.00  - Flash Talks  
 
 **Venue Address:**  
 Phases Ltd  
