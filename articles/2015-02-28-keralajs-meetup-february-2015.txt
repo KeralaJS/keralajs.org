@@ -8,14 +8,17 @@
 
 Hello Everyone,
 
-Our February meetup is happening on 28th, Saturday at Phases office in Seaport Airport road.
+Our February meetup is happening on 28th, Saturday at Phases office in Seaport Airport road. Vineeth will be talking about lazy function evaluation and currying in JavaScript. We have some slotes available for flash talks, feel free to let us know if you would like to go for one.
 
 RSVP : [Google Events](http://bit.ly/1Cr9kwX)
 
 **When:** Saturday, February 28, 2PM to 5PM
 
 **Agenda:**  
-TBD
+2.00  - Introduction
+2.30  - Lazy Function Evaluation, Partial Application and Curry by [Vineeth Nair](https://www.facebook.com/nairvineethrahakrishnan) 
+3.15  - Networking break / Tea time!
+4.00  - Flash Talks
 
 **Venue Address:**  
 Phases Ltd  
