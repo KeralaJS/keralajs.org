@@ -6,6 +6,8 @@
 "category":"Events"
 }
 
+![KeralaJS February meetup](/uploads/feb-meetup.jpg "KeralaJS February meetup")
+
 Hello Everyone,
 
 Our February meetup is happening on 28th, Saturday at Phases office in Seaport Airport road. Vineeth will be talking about lazy function evaluation and currying in JavaScript. We have some slotes available for flash talks, feel free to let us know if you would like to go for one.
