@@ -1,0 +1,37 @@
+{
+"title" : "Meta Refresh 2015: Kochi Run-up",
+"author":"KeralaJS",
+"date":"25-03-2015",
+"tag":"events,meetup",
+"category":"Events"
+}
+
+![Meta Refresh 2015: Kochi Run-up](/uploads/kochi-runup1-1.png "Meta Refresh 2015: Kochi Run-up")
+
+Hello Everyone,
+
+This month we are joining [Meta Refresh 2015](https://metarefresh.in) with their Kochi run up event instead of our regular meetup. The event is happening on March 28, from 3.00PM to 6.30PM at Startup Village
+
+Please visit the Event Website for <a class="btn btn-default" href="https://metarefresh.talkfunnel.com/2015-kochi/">RSVP and Schedule</a>
+
+**What is MetaRefresh?**
+
+Meta Refresh is a conference for working web designers and developers to present on how their own work has advanced the state of the web in the past year. You are expected to present original work that your peers — this event’s audience — recognise as being notable enough to deserve a stage.
+
+HasGeek, the organizers of Metaregresh, is a Bangalore based technology startup that creates discussion spaces for geeks. They enable platforms for like-minded people in the verticals of technology to meet-up, interact, share and learn new stuff and identify opportunities for collaboration.
+
+Each year, HasGeek organizes five large technology conferences around specific problem areas and domains. Their next conference Meta Refresh is on front-end and UI engineering and UX on April 16 and 17, happening in Bangalore. Meta Refresh 2015 will focus on enhancing web experience on mobile devices.
+
+HasGeek conferences are totally crowd sourced and community driven. If you'd like to showcase your work, conduct a workshop, talk about open source technology, submit proposals for 45 min, 15 min and Hands-on/ Demo  sessions. Please explore the MetaRefresh Talkfunnel to know more about the themes and expectations for this year:  
+[https://metarefresh.talkfunnel.com/2015/](https://metarefresh.talkfunnel.com/2015/)  
+
+In order to stimulate good discussions and to ensure sustainable and effective community engagement, HasGeek is organizing a free and open run-up event for MetaRefresh at Kochi on March 28th, in collaboration with the good folks at Startup village. The session will focus on Responsive web design, the future trends and case- specific Best Practices at mobile web design. Please find the relevant details and opportunities for participation here:  
+[https://metarefresh.talkfunnel.com/2015-kochi/](https://metarefresh.talkfunnel.com/2015-kochi/)  
+
+To explore the other run-up events in Mumbai, Pune and Delhi covering various challenges in front-end engineering, head to: [https://metarefresh.talkfunnel.com](https://metarefresh.talkfunnel.com)
+
+For more information on run-up events, please reach out to Tony Simon – tony@hasgeek.com
+
+For queries and information, write to  support@hasgeek.com or call +91 7676332020
+
+**See you there!**
