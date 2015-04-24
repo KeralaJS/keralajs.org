@@ -1,0 +1,31 @@
+{
+"title" : "KeralaJS TVM meetup - May, 2015",
+"author":"KeralaJS",
+"date":"05-05-2015",
+"tag":"events,meetup",
+"category":"Events"
+}
+
+Hello Everyone,
+
+Our next (Trivandrum) meetup is happening on 05th May(Tuesday) at Experion Technologies (I) Pvt Ltd.
+RSVP : [Google Events](http://bit.ly/tvm-kjs-apr)
+
+**When:** Tuesday, April 5, 4PM
+
+**Agenda:**
+Flash Talks
+
+
+
+**Venue Address:**
+Experion Technologies (I) Pvt Ltd  
+407, 4th Floor, Thejaswini, Technopark Campus,  
+Thiruvananthapuram, Kerala, India - 695 581  
+Tel: +91 471 3047310/7  
+
+**Route Map:**
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3945.409507994144!2d76.88227599999999!3d8.556562000000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05befae963353f%3A0x21e52a768e18dfd5!2sExperion+Technologies+(I)+Private+Limited%2C+4th+floor%2C+Thejaswini!5e0!3m2!1sen!2sin!4v1424815536405" width="800" height="459" frameborder="0" style="border:0"></iframe>
+
+**See you there!**
