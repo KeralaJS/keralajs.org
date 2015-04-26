@@ -1,7 +1,7 @@
 {
 "title" : "KeralaJS TVM meetup - May, 2015",
 "author":"KeralaJS",
-"date":"05-05-2015",
+"date":"24-04-2015",
 "tag":"events,meetup",
 "category":"Events"
 }
@@ -11,7 +11,7 @@ Hello Everyone,
 Our next (Trivandrum) meetup is happening on 05th May(Tuesday) at Experion Technologies (I) Pvt Ltd.
 RSVP : [Google Events](http://bit.ly/tvm-kjs-apr)
 
-**When:** Tuesday, April 5, 4PM
+**When:** Tuesday, May 5, 4PM
 
 **Agenda:**  
 Flash Talks
