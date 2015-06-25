@@ -6,6 +6,8 @@
 "category":"Events"
 }
 
+![KeralaJS June Meetup - Fingent](/uploads/fingent_keralajs_banner.png "KeralaJS June meetup")
+
 Hello Everyone,
 
 We're having our monthly meetup this Saturday at Fingent in InfoPark. As always, the event is free for all and everyone is welcome, no matter you are a JavaScript developer or not.
